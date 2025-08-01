@@ -1,8 +1,3 @@
----
-layout: default
-title: Solid Principles
----
-
 # Solid Principles 
 
 ## Introduction

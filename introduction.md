@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Introduction
 
 Look, Low-Level Design (LLD) interviews are the kind of shit that makes even senior engineers sweat like they’re defusing a bomb. They’re a staple at those big-ass companies with paychecks as bloated as their codebases—yeah, I’m talking about the MAANGs, GAYMANs, or whatever the fuck we’re calling them now. But here’s the deal: don’t learn LLD just to chase that FAANG cash. Learn it because it makes you a better software engineer. Knowing how to architect your code so it’s scalable, maintainable, and doesn’t make your teammates want to yeet their laptops out a window? That’s the real flex.
