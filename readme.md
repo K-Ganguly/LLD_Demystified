@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # LLD Demystified
 
 ![Alt text](assets/images/lld_demystified.png)
