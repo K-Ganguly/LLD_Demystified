@@ -13,3 +13,4 @@ Welcome to *LLD Demystified*, where weâ€™ll learn to build software that doesnâ€
 ## Contents:
 1. [Introduction](introduction.md)
 2. [Solid Principles](solid_principles.md)
+3. [Design Patterns: Strategy Pattern](strategy_pattern.md)
